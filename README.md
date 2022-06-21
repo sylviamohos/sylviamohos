@@ -2,7 +2,7 @@
 
 I am currently enrolled in the backend development program at Bloomtech Institute of Technology.  This program has given me a tremedous perspective and appreciation for all of the amazing work that goes into the creation of clever, user-friendly technology that simplifies and elevates life! I am excited and inspired to work along side of fun, talented, like-minded people who want to collaborate and build something great together. 
 
-🔭 Some technologies that I enjoy working with are Java, API's, AWS, HTML, CSS and JavaScript.  🌱 I look forward to continue to develop my skills in these areas, and also learn the ropes in Python and React. 
+🔭 Some technologies that I enjoy working with are Java, HTML, CSS, Javascript, AWS API Gateway, AWS DynamoDB, AWS Lambda, and Postman. I am a believer of continues growth and development in order to reamin current with evolving technology.  I love learning, and so I am currently expanding my programming language skillset to include Python and Ruby! 🌱 
 
 👯 My goal is to join a force where I can contribute to the development and production of a product designed to simplify and add value to life, whether it means enhancing a customer's shopping experience, helping to plan that dream vacation, putting together a great playlist, or suggesting what to cook for dinner based on what's in the fridge - I want to be a part of the team that puts smiles on faces 😄
 
