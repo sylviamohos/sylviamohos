@@ -25,9 +25,9 @@ I want to be a part of the team that causes customers to say things like:
 
 I look forward to contributing to the development and production of technology designed to simplify and enrich life, whether it means...<br />
 
-* Enhancing a customer's shopping experience :shopping_cart: (See my project **"CoolWithCoule"** below!) :point_down: <br /> 
+* Enhancing a customer's shopping experience :shopping_cart: (See my project **CoolWithCoule** below!) :point_down: <br /> 
 * Helping to plan that dream vacation :palm_tree:<br /> 
-* Putting together a great playlist :play_or_pause_button: (See my project **"Playing With Playlists"**)<br /> 
+* Putting together a great playlist :play_or_pause_button: (See my project **Playing-With-Playlists** below!) :point_down: <br /> 
 * Suggesting what to cook for dinner based on what's in the fridge :shallow_pan_of_food: 
 
 ## Together, we can do amazing things :star_struck: 
