@@ -1,6 +1,6 @@
 ### Thanks for stopping by! I'm Sylvia 👋
 
-I am a full-time student in the intensive 9-month backend development program at [Bloom Institute of Technology](https://www.bloomtech.com/courses/backend-development) and am looking forward to graduation in September 2022! :partying_face: 
+I am a full-time student in the intensive 9-month backend development program at [Bloom Institute of Technology](https://www.bloomtech.com/courses/backend-development)(formerly known as Lambda) and am looking forward to graduation in September 2022! :partying_face: 
 
 This program has given me tremedous respect and appreciation for all of the incredible work and passion that goes into the creation of clever, user-friendly technology that simplifies and elevates our day-to-day lives. I am inspired by the endless possibilities that backend development has shown me,  and I look forward to an opportunity to contribute to a team of talented, innovative, passionate people where I can add value, learn, grow and collaborate to build something great together! 
 
