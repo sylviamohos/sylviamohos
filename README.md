@@ -8,7 +8,6 @@ Some technologies that I enjoy working with are:<br />
  :white_check_mark: Java<br />
  :white_check_mark: Springboot<br />
  :white_check_mark: Ruby<br />
- :white_check_mark: Ruby on Rails<br />
  :white_check_mark: HTML<br />
  :white_check_mark: CSS<br />
  :white_check_mark: AWS API Gateway<br />
