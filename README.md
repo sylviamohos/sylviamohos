@@ -6,10 +6,6 @@ This program has given me tremedous respect and appreciation for all of the incr
 
 Some technologies that I enjoy working with are:<br />
  :white_check_mark: Java<br />
- :white_check_mark: Springboot<br />
- :white_check_mark: Ruby<br />
- :white_check_mark: HTML<br />
- :white_check_mark: CSS<br />
  :white_check_mark: AWS API Gateway<br />
  :white_check_mark: AWS DynamoDB<br />
  :white_check_mark: AWS Lambda<br />
@@ -22,11 +18,6 @@ I am a believer of continuous self-growth and development and am technologically
 I want to be a part of the team that causes customers to say things like: 
 "What will they come up with next:interrobang:",  "How did they do that:interrobang:", "Thank goodness for this app, without it I wouldn't be so produtive :raised_hands:", "This app makes my life so much easier :relaxed:" 
 
-I look forward to contributing to the development and production of technology designed to simplify and enrich life, whether it means...<br />
-
-* Enhancing a customer's shopping experience :shopping_cart: (See my project **CoolWithCoule** below!) :point_down: <br /> 
-* Helping to plan that dream vacation :palm_tree:<br /> 
-* Putting together a great playlist :play_or_pause_button: (See my project **Playing-With-Playlists** below!) :point_down: <br /> 
-* Suggesting what to cook for dinner based on what's in the fridge :shallow_pan_of_food: 
+I look forward to contributing to the development and production of technology designed to simplify and enrich life.
 
 ## Together, we can do amazing things :star_struck: 
