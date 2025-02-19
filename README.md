@@ -13,9 +13,6 @@ I am a believer of continuous self-growth and development and am technologically
 
 **My goal is to join a force that embraces challenges, thrives on teamwork, cultivates continuous growth, and has an outstanding reputation for customer service.** 
 
-I want to be a part of the team that causes customers to say things like: 
-"What will they come up with next:interrobang:",  "How did they do that:interrobang:", "Thank goodness for this app, without it I wouldn't be so produtive :raised_hands:", "This app makes my life so much easier :relaxed:" 
-
 I look forward to contributing to the development and production of technology designed to simplify and enrich life.
 
 ## Together, we can do amazing things :star_struck: 
